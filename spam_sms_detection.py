@@ -30,9 +30,9 @@ model.fit(X_train_vec, y_train)
 y_pred = model.predict(X_test_vec)
 
 # Show results
-print("✅ Accuracy:", accuracy_score(y_test, y_pred))
-print("\n📌 Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
-print("\n📋 Classification Report:\n", classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("\n Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
+print("\n Classification Report:\n", classification_report(y_test, y_pred))
 
 import joblib
 
