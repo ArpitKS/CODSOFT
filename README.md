@@ -34,12 +34,12 @@ This is a machine learning project built as part of the **CodSoft Machine Learni
 
 ## Project Structure
 
-SpamSMSDetection/
-├── spam.csv
-├── spam_sms_detection.py
-├── spam_classifier_model.pkl
-├── vectorizer.pkl
-├── README.md
+SpamSMSDetection/ 
+|- spam.csv
+|- spam_sms_detection.py
+|- spam_classifier_model.pkl
+|- vectorizer.pkl
+|- README.md
 
 ---
 
