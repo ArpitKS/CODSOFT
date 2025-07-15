@@ -26,8 +26,8 @@ Welcome to my Machine Learning Internship Projects repository completed under th
 ## Links
 
 - **GitHub Profile**: [@ArpitKS](https://github.com/ArpitKS)
-- **Demo Video Playlist**: Spam SMS Detection - https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_machinelearning-nlp-internship-activity-7350646421986906112-deyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s
-- **LinkedIn**: www.linkedin.com/in/arpit-kumar-singh-2679a5320
+- **Demo Videos**: [Spam SMS Detection](https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_machinelearning-nlp-internship-activity-7350646421986906112-deyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s)
+- **LinkedIn**: [Arpit Kumar Singh](https://www.linkedin.com/in/arpit-kumar-singh-2679a5320)
 
 ---
 
