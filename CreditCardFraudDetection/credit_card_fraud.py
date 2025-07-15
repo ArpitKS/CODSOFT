@@ -5,8 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 
 # Load Dataset
-data = pd.read_csv('fraudTrain.csv')
-data = data.sample(n=100000, random_state=42)
+data = pd.read_csv("fraudTrain_100k.csv")
 
 # Explore Basic Info
 print("Dataset shape:", data.shape)
