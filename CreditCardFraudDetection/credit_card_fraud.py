@@ -5,7 +5,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 
 # Load Dataset
-data = pd.read_csv("fraudTrain_100k.csv")
+data = pd.read_csv("fraudTrain_100k.csv", low_memory=False)
+data = data.dropna(subset=['is_fraud'])
+data['is_fraud'] = data['is_fraud'].astype(int)
 
 # Explore Basic Info
 print("Dataset shape:", data.shape)
