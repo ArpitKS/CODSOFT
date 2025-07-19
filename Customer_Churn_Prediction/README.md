@@ -85,3 +85,4 @@ Duration: June–July 2025
 **Arpit Kumar Singh**  
 CodSoft Machine Learning Intern – July 2025  
 GitHub: [@ArpitKS](https://github.com/ArpitKS)
+LinkedIn: [Arpit Kumar Singh](https://www.linkedin.com/in/arpit-kumar-singh-2679a5320)
