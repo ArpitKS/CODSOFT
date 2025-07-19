@@ -18,7 +18,7 @@ Customer churn is a critical metric for any business. Using this model, banks ca
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Jupyter / VS Code
+- VS Code
 - Git & GitHub
 
 ## Model Details
@@ -85,4 +85,5 @@ Duration: June–July 2025
 **Arpit Kumar Singh**  
 CodSoft Machine Learning Intern – July 2025  
 GitHub: [@ArpitKS](https://github.com/ArpitKS)
+
 LinkedIn: [Arpit Kumar Singh](https://www.linkedin.com/in/arpit-kumar-singh-2679a5320)
