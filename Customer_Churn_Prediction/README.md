@@ -33,7 +33,7 @@ Customer churn is a critical metric for any business. Using this model, banks ca
        0       0.88      0.96      0.92      1607
        1       0.76      0.49      0.59       393
 
-Accuracy                           0.87      2000
+**Accuracy**                           ~ 0.87      
 
 ## Features Engineered
 
@@ -61,6 +61,7 @@ sample_input = pd.DataFrame([{
 
 # Output
 Predicted Churn (1 = Yes, 0 = No): 0
+```
 
 ## Model File
 The trained model is saved as churn_model.pkl using joblib.
