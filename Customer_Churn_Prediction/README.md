@@ -68,7 +68,7 @@ The trained model is saved as churn_model.pkl using joblib.
 
 ## Demo
 
-[ Demo Video Link (Coming Soon) ](#)
+[ LinkedIn Post (With Video) ](https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_machinelearning-python-datascience-activity-7352361379384696832-Q6ib?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s)
 
 ## Internship Info
 
