@@ -49,7 +49,7 @@ Confusion Matrix:
 
 ## Demo
 
-[ LinkedIn Post (With Video) ]([https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_machinelearning-python-datascience-activity-7352361379384696832-Q6ib?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s](https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_python-machinelearning-codsoft-activity-7352064768565776385-nlNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s))
+[ LinkedIn Post (With Video) ](https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_python-machinelearning-codsoft-activity-7352064768565776385-nlNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s)
 
 ## Author
 
