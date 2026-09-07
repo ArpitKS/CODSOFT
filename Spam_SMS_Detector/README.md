@@ -45,7 +45,7 @@ SpamSMSDetection/
 
 ## Demo
 
-[ Demo Video Link (Coming Soon) ](#)
+[ LinkedIn Post (With Video) ](https://www.linkedin.com/posts/arpit-kumar-singh-2679a5320_machinelearning-nlp-internship-activity-7350646421986906112-deyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFN-S8BRKS-UvXP2imL6_2dAnVVlxAxG1s)
 
 ---
 
